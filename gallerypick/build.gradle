@@ -3,7 +3,6 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 26
-    buildToolsVersion '26.0.0'
     //resourcePrefix "GalleryPick"	//这个随便填
 
     defaultConfig {
