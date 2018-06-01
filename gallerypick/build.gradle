@@ -28,7 +28,7 @@ dependencies {
     compile "com.android.support:appcompat-v7:26.1.0"
     compile "com.android.support:recyclerview-v7:26.1.0"
     compile 'com.github.BigXiangxy:ucropProject:1.0'
-    compile 'com.github.BigXiangxy:QYQBase:1.6'
+    compile 'com.github.BigXiangxy:QYQBase:1.7'
 }
 
 //// 指定编码
